@@ -84,7 +84,7 @@
     "@bentley/imodeljs-markup": "^2.2.0",
     "@bentley/imodeljs-quantity": "^2.2.0",
     "@bentley/itwin-client": "^2.2.0",
-    "@bentley/orbitgt-core": "^2.2.0",
+    "@bentley/orbitgt-core": "^2.4.2",
     "@bentley/presentation-backend": "^2.2.0",
     "@bentley/presentation-common": "^2.2.0",
     "@bentley/presentation-components": "^2.2.0",
